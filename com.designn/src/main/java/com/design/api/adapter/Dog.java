@@ -12,4 +12,5 @@ public interface Dog{
     public static Duck dogToDuck(Dog dog){
         return new DogToDuck(dog);
     }
+    // comment
 }
